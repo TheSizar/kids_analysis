@@ -1,0 +1,29 @@
+# Environment variables
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Large data files
+*.csv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Mac OS specific files
+.DS_Store
+
+# Archive folder
+archive/
