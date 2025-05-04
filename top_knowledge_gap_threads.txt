@@ -1,0 +1,161 @@
+THREADS FOR TOP 15 KNOWLEDGE GAPS BY SUBCATEGORY
+=================================================
+
+Marketplace & Exchange - Borrowing & Lending (Gap: 19.2%, Resolution Rate: 20.0%)
+--------------------------------------------
+Thread 21: "Borrowing Household Items" (Virality: 12.74)
+Thread 644: "Borrowing a Yeti backpack cooler" (Virality: 10.27)
+Thread 269: "Halloween Costume Exchange/Borrowing" (Virality: 4.37)
+Thread 208: "Borrowing Halloween Adult Costumes" (Virality: 1.46)
+Thread 356: "Borrowing Adult Renaissance Costume" (Virality: 1.46)
+Thread 233: "Borrowing a Walking Cane" (Virality: 1.46)
+
+Group Communication - Announcements & Updates (Gap: 19.2%, Resolution Rate: 20.0%)
+---------------------------------------------
+Thread 771: "BPS K0-K2 Registration Information" (Virality: 32.28)
+Thread 170: Unavailable Information (Virality: 1.46)
+Thread 1080: "Sharing Nextdoor Post Information" (Virality: 1.46)
+Thread 272: "Parade Route Information" (Virality: 1.46)
+
+Nutrition & Feeding - Restaurants & Dining Out (Gap: 19.2%, Resolution Rate: 20.0%)
+----------------------------------------------
+Thread 191: "Red Fox Restaurant Crowdedness Inquiry" (Virality: 32.32)
+Thread 478: "Dining out with children" (Virality: 20.35)
+Thread 777: "Kid-friendly events after holidays" (Virality: 1.46)
+
+Activities & Recreation - Classes & Programs (Gap: 17.0%, Resolution Rate: 22.2%)
+--------------------------------------------
+Thread 619: "Parenting strategies and piano lessons recommendations" (Virality: 12.25)
+Thread 173: "Recommendations for Multivitamins and Swim Lessons" (Virality: 3.99)
+Thread 1058: "Infant Swimming Lessons Recommendations" (Virality: 1.46)
+Thread 1125: "Teaching Kids to Blow Nose" (Virality: 1.46)
+Thread 69: "Baby Swim Lesson Recommendations" (Virality: 1.46)
+Thread 586: "Little Ones Program Reviews" (Virality: 1.46)
+
+Nutrition & Feeding - Baby & Toddler Food (Gap: 14.2%, Resolution Rate: 25.0%)
+-----------------------------------------
+Thread 682: "Eczema management and treatment advice" (Virality: 29.76)
+Thread 593: "Recommendations for Wreath and Garland Delivery" (Virality: 22.56)
+Thread 918: "Car Seat Recommendations and Considerations" (Virality: 22.16)
+Thread 620: "Car seats and extracurricular activities" (Virality: 21.96)
+Thread 529: "Pneumonia treatment and medication discussion" (Virality: 21.75)
+Thread 1056: "Child Potty Training and Mouth Breathing" (Virality: 20.07)
+Thread 454: "Recommendations for treating Keratosis Pilaris" (Virality: 17.09)
+Thread 400: "Car Seat Recycling and Donation" (Virality: 1.46)
+Thread 686: "Child Constipation and Treatment Options" (Virality: 1.46)
+Thread 265: "Local Meat/Grocery Store Recommendations" (Virality: 1.46)
+Thread 401: "Fenway Trick or Treating Experience" (Virality: 1.46)
+Thread 850: "Clek Foonf car seat experiences" (Virality: 1.46)
+Thread 629: "Switching Infant Car Seats" (Virality: 1.46)
+Thread 658: "Nanit nightlight usage and features" (Virality: 1.46)
+Thread 597: "Darning Sweater Services Recommendations" (Virality: 1.46)
+Thread 882: "Lost Eliot V-neck Sweater" (Virality: 1.46)
+Thread 742: "Nuna Rava Car Seat Recall" (Virality: 1.46)
+
+Products & Shopping - Toys, Books & Entertainment (Gap: 12.0%, Resolution Rate: 27.3%)
+-------------------------------------------------
+Thread 605: "Discussing Baby Walker Toys" (Virality: 15.41)
+Thread 475: "Selling Bruins Game Tickets" (Virality: 13.92)
+Thread 816: "Children's Birthday Party Entertainment" (Virality: 13.39)
+Thread 172: Unable to determine topic as the provided message is a non-accessible Facebook link. (Virality: 1.46)
+Thread 600: "Sharing Plant Facebook Group" (Virality: 1.46)
+Thread 349: "Good Inside" book and app discussion (Virality: 1.46)
+Thread 842: "Donating Used Children's Toys" (Virality: 1.46)
+
+Products & Shopping - Home & Furniture (Gap: 10.7%, Resolution Rate: 28.6%)
+--------------------------------------
+Thread 857: "Siblings Sharing Room Bedtime Issues" (Virality: 27.97)
+Thread 197: "Halloween Costume Swap Organization" (Virality: 18.85)
+Thread 103: "Disposing Mattresses and Beddings in Boston" (Virality: 18.32)
+Thread 218: "Outdoor Halloween Decorations Sources" (Virality: 13.80)
+Thread 621: "Christmas tree and decoration recommendations" (Virality: 6.39)
+Thread 858: "Strategies for Toddler Bedtime" (Virality: 1.46)
+Thread 1075: "Borrowing/Renting Folding Chairs" (Virality: 1.46)
+Thread 1060: Offering Used Furniture (Virality: 1.46)
+Thread 623: "Mina High Chair Reviews" (Virality: 1.46)
+Thread 657: "Remote-controlled toddler bed light recommendations" (Virality: 1.46)
+
+Parenting Challenges & Support - Potty Training & Hygiene (Gap: 10.7%, Resolution Rate: 28.6%)
+---------------------------------------------------------
+Thread 305: "Bathroom locations and Celtics tickets" (Virality: 15.69)
+Thread 78: "Post-move-out cleaning recommendations" (Virality: 1.46)
+Thread 523: "Bathroom Refresh Recommendations" (Virality: 1.46)
+Thread 417: "Cleaning White Boucle Material" (Virality: 1.46)
+Thread 541: "Parenting and Personal Accidents" (Virality: 1.46)
+
+Marketplace & Exchange - Buying & Selling (Gap: 8.5%, Resolution Rate: 30.8%)
+-----------------------------------------
+Thread 787: "Reselling Disney on Ice Tickets" (Virality: 22.20)
+Thread 774: "Golden Goose store availability" (Virality: 8.21)
+Thread 360: "Hillhouse Karate Uniform Purchase" (Virality: 3.05)
+Thread 1069: "Auto Body Shop Recommendations" (Virality: 1.46)
+Thread 26: "Advice for Buying Used Cars" (Virality: 1.46)
+Thread 393: "Parking tips for Salem visit" (Virality: 1.46)
+Thread 632: "Buying iPhone 8 and 11 Covers" (Virality: 1.46)
+Thread 268: "Salem day trip advice" (Virality: 1.46)
+
+Activities & Recreation - Arts & Music (Gap: 5.9%, Resolution Rate: 33.3%)
+--------------------------------------
+Thread 717: "Woddle Smart Changing Pad" (Virality: 68.55)
+Thread 391: "Family Halloween Party Information" (Virality: 31.58)
+Thread 470: "Essem Art Studio Party Recommendations" (Virality: 26.19)
+Thread 433: "Children's birthday party locations" (Virality: 16.71)
+Thread 1096: "Indoor Pool Birthday Party Locations" (Virality: 12.48)
+Thread 1049: "Full time vs part time discussion" (Virality: 1.46)
+Thread 622: "North End Apartment for Rent" (Virality: 1.46)
+Thread 362: "Celtics Home Opener Party" (Virality: 1.46)
+Thread 507: "Kids' birthday party experiences" (Virality: 1.46)
+Thread 810: "Children's museum birthday parties" (Virality: 1.46)
+Thread 242: "Prado Party Sponsor and Time" (Virality: 1.46)
+
+Activities & Recreation - Parks & Playgrounds (Gap: 5.9%, Resolution Rate: 33.3%)
+---------------------------------------------
+Thread 369: "Myrtle Street Playground location" (Virality: 23.27)
+Thread 928: "Dinosaur Land/Park for Kids" (Virality: 23.02)
+Thread 300: "Locating Public Restrooms Near Langone Park" (Virality: 19.42)
+Thread 782: "Resident parking and spring break camps" (Virality: 12.28)
+
+Activities & Recreation - Seasonal & Holiday Activities (Gap: 5.9%, Resolution Rate: 33.3%)
+-------------------------------------------------------
+Thread 101: "Halloween celebrations and costumes" (Virality: 17.21)
+Thread 209: "Halloween Events and Doula Inquiry" (Virality: 16.21)
+Thread 102: "Halloween costumes for babies" (Virality: 1.46)
+Thread 387: "Halloween plans for toddlers" (Virality: 1.46)
+Thread 589: "Getting a Real Christmas Tree" (Virality: 1.46)
+Thread 277: "Finding Christmas Tree Farms" (Virality: 1.46)
+
+Activities & Recreation - Social Events & Playdates (Gap: 5.9%, Resolution Rate: 33.3%)
+---------------------------------------------------
+Thread 681: "Kids Friendly Weekend Events" (Virality: 60.66)
+Thread 821: Undetermined Activity for Kids (Virality: 21.73)
+Thread 583: "Play Union in Somerville Reviews" (Virality: 1.46)
+Thread 261: "Family Friendly Farms in VT" (Virality: 1.46)
+Thread 319: Sharing Spotify Playlist (Virality: 1.46)
+
+Local Community - Neighborhood Information (Gap: 3.5%, Resolution Rate: 35.7%)
+------------------------------------------
+Thread 1022: "Neighborhood Valentine's Day Event" (Virality: 31.58)
+Thread 406: "Finding Popsicle Sticks Locally" (Virality: 19.09)
+Thread 247: "Fall foliage locations near Boston" (Virality: 16.81)
+Thread 128: "Referral for Russian-speaking Community" (Virality: 10.53)
+Thread 1082: "Community fridge in Charlestown" (Virality: 1.46)
+Thread 459: "Copley Library's Children Area Inquiry" (Virality: 1.46)
+Thread 480: "Affordable Boston Event Locations" (Virality: 1.46)
+Thread 550: "Handyman Recommendations in Neighborhood" (Virality: 1.46)
+Thread 753: "Sledding hills in neighborhood" (Virality: 1.46)
+
+Child Care & Education - Babysitters & Nannies (Gap: 3.2%, Resolution Rate: 36.0%)
+----------------------------------------------
+Thread 162: "Nanny Recommendations in Lexington/Concord" (Virality: 31.58)
+Thread 571: Finding a Part-Time Nanny (Virality: 26.65)
+Thread 392: "Babysitter Rates and Recommendations" (Virality: 19.19)
+Thread 708: "Finding a Part-Time Nanny" (Virality: 4.23)
+Thread 930: "Babysitter Recommendations at Killington/Pico" (Virality: 1.46)
+Thread 112: "Nanny's Annual Raise Advice" (Virality: 1.46)
+Thread 1040: "Searching for a Babysitter" (Virality: 1.46)
+Thread 607: "Nanny Compensation for School Transportation" (Virality: 1.46)
+Thread 641: "Seeking Part-Time Babysitter Recommendations" (Virality: 1.46)
+Thread 839: "Finding a local babysitter" (Virality: 1.46)
+Thread 313: "Seeking Part-Time Nanny Recommendations" (Virality: 1.46)
+Thread 713: "Babysitter Recommendations in Seaport" (Virality: 1.46)
+
